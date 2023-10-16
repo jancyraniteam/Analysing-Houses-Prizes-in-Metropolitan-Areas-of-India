@@ -10,14 +10,6 @@ Dashboard 1 :
 
 https://public.tableau.com/app/profile/jancyrani.a/viz/HousingPricesinMetropolitanAreasProjectDashboard1/Dashboard1?publish=yes
 
-Dashboard 2 :
-
-https://public.tableau.com/app/profile/jancyrani.a/viz/HousingPricesinMetropolitanAreasProjectDashboard1/Dashboard1?publish=yes
-
-Dahboard 3 :
-
-https://public.tableau.com/app/profile/jancyrani.a/viz/HousingPricesinMetropolitanAreasProjectDashboard3/Dashboard3?publish=yes
-
- Dasshboard 4 :
+ Dasshboard 2 :
  
-  https://public.tableau.com/app/profile/jancyrani.a/viz/HousingPricesinMetropolitanAreasProjectDashboard4/Dashboard4?publish=yes                                                                                                                                                                                                                 
+https://public.tableau.com/app/profile/jancyrani.a/viz/HousingPricesinMetropolitanAreasProjectDashboard4/Dashboard4?publish=yes                                                                                                                                                                                                                 
